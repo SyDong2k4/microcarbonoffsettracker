@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 17, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":""}},
+    {"offset": {"line": 21, "column": 0}, "map": {"version":3,"sources":["file:///D:/microcarbonoffsettracker/app/page.tsx"],"sourcesContent":["import CarbonDashboard from \"@/components/CarbonDashboard\"\n\nexport default function Home() {\n  return <CarbonDashboard />\n}"],"names":[],"mappings":";;;;;AAAA;;;AAEe,SAAS;IACtB,qBAAO,8OAAC,yIAAe;;;;;AACzB"}}]
+}

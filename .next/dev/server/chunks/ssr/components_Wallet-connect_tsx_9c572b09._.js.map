@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///D:/microcarbonoffsettracker/components/Wallet-connect.tsx"],"sourcesContent":["\"use client\"\n\nimport { ConnectButton } from \"@iota/dapp-kit\"\n\nexport function WalletConnect() {\n  return (\n    <div style={{ padding: \"1rem\", display: \"flex\", justifyContent: \"flex-end\" }}>\n      <ConnectButton />\n    </div>\n  )\n}\n\n"],"names":[],"mappings":";;;;;AAEA;AAFA;;;AAIO,SAAS;IACd,qBACE,8OAAC;QAAI,OAAO;YAAE,SAAS;YAAQ,SAAS;YAAQ,gBAAgB;QAAW;kBACzE,cAAA,8OAAC,8KAAa;;;;;;;;;;AAGpB"}}]
+}
