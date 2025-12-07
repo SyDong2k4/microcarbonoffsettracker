@@ -86663,3 +86663,14 @@ https://nextjs.org/docs/messages/module-not-found
 [02:14:17.557] Browser LOG     Contract initialized (simulated)
 [02:18:27.591] Server  LOG      ✓ Compiled in 291ms
 [02:18:48.085] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:40:52.540] Server  LOG      ✓ Compiled in 97ms
+[02:41:02.912] Server  LOG      ✓ Compiled in 92ms
+[02:41:10.734] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:41:42.595] Server  LOG      ✓ Compiled in 136ms
+[02:41:50.477] Server  LOG      ✓ Compiled in 86ms
+[02:41:52.052] Server  LOG      ✓ Compiled in 114ms
+[02:41:58.977] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:43:54.756] Server  LOG      ✓ Compiled in 77ms
+[02:44:00.240] Server  LOG      ✓ Compiled in 98ms
+[02:44:03.638] Server  LOG      ✓ Compiled in 106ms
+[02:44:05.373] Server  LOG      ✓ Compiled in 101ms

@@ -1478,7 +1478,7 @@ function SampleIntegration() {
                                                     children: "📅 Yearly Impact Calculator"
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/sample.tsx",
-                                                    lineNumber: 244,
+                                                    lineNumber: 243,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1494,23 +1494,23 @@ function SampleIntegration() {
                                                                             children: "Daily Distance (km)"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/components/sample.tsx",
-                                                                            lineNumber: 251,
+                                                                            lineNumber: 250,
                                                                             columnNumber: 25
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
                                                                             type: "number",
                                                                             value: dailyDistance,
                                                                             onChange: (e)=>setDailyDistance(Number(e.target.value)),
-                                                                            className: "w-full p-2 border border-gray-300 rounded-lg"
+                                                                            className: "w-full p-2 border border-gray-300 rounded-lg text-gray-900"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/components/sample.tsx",
-                                                                            lineNumber: 254,
+                                                                            lineNumber: 253,
                                                                             columnNumber: 25
                                                                         }, this)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/components/sample.tsx",
-                                                                    lineNumber: 250,
+                                                                    lineNumber: 249,
                                                                     columnNumber: 23
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1520,7 +1520,7 @@ function SampleIntegration() {
                                                                             children: "Days/Week"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/components/sample.tsx",
-                                                                            lineNumber: 262,
+                                                                            lineNumber: 261,
                                                                             columnNumber: 25
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -1529,16 +1529,16 @@ function SampleIntegration() {
                                                                             max: "7",
                                                                             value: daysPerWeek,
                                                                             onChange: (e)=>setDaysPerWeek(Number(e.target.value)),
-                                                                            className: "w-full p-2 border border-gray-300 rounded-lg"
+                                                                            className: "w-full p-2 border border-gray-300 rounded-lg text-gray-900"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/components/sample.tsx",
-                                                                            lineNumber: 265,
+                                                                            lineNumber: 264,
                                                                             columnNumber: 25
                                                                         }, this)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/components/sample.tsx",
-                                                                    lineNumber: 261,
+                                                                    lineNumber: 260,
                                                                     columnNumber: 23
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1548,7 +1548,7 @@ function SampleIntegration() {
                                                                             children: "Weeks/Year"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/components/sample.tsx",
-                                                                            lineNumber: 275,
+                                                                            lineNumber: 274,
                                                                             columnNumber: 25
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -1557,28 +1557,28 @@ function SampleIntegration() {
                                                                             max: "52",
                                                                             value: weeksPerYear,
                                                                             onChange: (e)=>setWeeksPerYear(Number(e.target.value)),
-                                                                            className: "w-full p-2 border border-gray-300 rounded-lg"
+                                                                            className: "w-full p-2 border border-gray-300 rounded-lg text-gray-900"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/components/sample.tsx",
-                                                                            lineNumber: 278,
-                                                                            columnNumber: 27
+                                                                            lineNumber: 277,
+                                                                            columnNumber: 25
                                                                         }, this)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/components/sample.tsx",
-                                                                    lineNumber: 274,
+                                                                    lineNumber: 273,
                                                                     columnNumber: 23
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/components/sample.tsx",
-                                                            lineNumber: 249,
+                                                            lineNumber: 248,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                             className: "bg-gradient-to-r from-green-50 to-blue-50 p-4 rounded-lg",
                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                className: "space-y-2",
+                                                                className: "space-y-2 text-gray-900",
                                                                 children: [
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                         className: "flex justify-between",
@@ -1587,7 +1587,7 @@ function SampleIntegration() {
                                                                                 children: "Yearly Carbon:"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/components/sample.tsx",
-                                                                                lineNumber: 292,
+                                                                                lineNumber: 291,
                                                                                 columnNumber: 27
                                                                             }, this),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1598,13 +1598,13 @@ function SampleIntegration() {
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/components/sample.tsx",
-                                                                                lineNumber: 293,
+                                                                                lineNumber: 292,
                                                                                 columnNumber: 27
                                                                             }, this)
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/components/sample.tsx",
-                                                                        lineNumber: 291,
+                                                                        lineNumber: 290,
                                                                         columnNumber: 25
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1614,23 +1614,24 @@ function SampleIntegration() {
                                                                                 children: "Monthly Carbon:"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/components/sample.tsx",
-                                                                                lineNumber: 296,
+                                                                                lineNumber: 295,
                                                                                 columnNumber: 27
                                                                             }, this),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                                className: "font-bold",
                                                                                 children: [
                                                                                     yearlyImpact.monthlyCarbon,
                                                                                     " kg"
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/components/sample.tsx",
-                                                                                lineNumber: 297,
+                                                                                lineNumber: 296,
                                                                                 columnNumber: 27
                                                                             }, this)
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/components/sample.tsx",
-                                                                        lineNumber: 295,
+                                                                        lineNumber: 294,
                                                                         columnNumber: 25
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1640,7 +1641,7 @@ function SampleIntegration() {
                                                                                 children: "Trees Needed to Offset:"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/components/sample.tsx",
-                                                                                lineNumber: 300,
+                                                                                lineNumber: 299,
                                                                                 columnNumber: 27
                                                                             }, this),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1651,30 +1652,30 @@ function SampleIntegration() {
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/components/sample.tsx",
-                                                                                lineNumber: 301,
+                                                                                lineNumber: 300,
                                                                                 columnNumber: 27
                                                                             }, this)
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/components/sample.tsx",
-                                                                        lineNumber: 299,
+                                                                        lineNumber: 298,
                                                                         columnNumber: 25
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/components/sample.tsx",
-                                                                lineNumber: 290,
+                                                                lineNumber: 289,
                                                                 columnNumber: 23
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/sample.tsx",
-                                                            lineNumber: 289,
+                                                            lineNumber: 288,
                                                             columnNumber: 21
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/components/sample.tsx",
-                                                    lineNumber: 248,
+                                                    lineNumber: 247,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
@@ -1711,7 +1712,7 @@ function SampleIntegration() {
                                                                         columnNumber: 25
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                                        className: "text-xl font-bold",
+                                                                        className: "text-xl font-bold text-gray-900",
                                                                         children: [
                                                                             globalStats.totalDistance,
                                                                             " km"
@@ -1739,7 +1740,7 @@ function SampleIntegration() {
                                                                         columnNumber: 25
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                                        className: "text-xl font-bold",
+                                                                        className: "text-xl font-bold text-gray-900",
                                                                         children: [
                                                                             globalStats.totalCarbonKg.toFixed(2),
                                                                             " kg"
@@ -1767,7 +1768,7 @@ function SampleIntegration() {
                                                                         columnNumber: 25
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                                        className: "text-xl font-bold",
+                                                                        className: "text-xl font-bold text-gray-900",
                                                                         children: globalStats.recordCount
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/components/sample.tsx",
@@ -1792,7 +1793,7 @@ function SampleIntegration() {
                                                                         columnNumber: 25
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                                        className: "text-xl font-bold",
+                                                                        className: "text-xl font-bold text-gray-900",
                                                                         children: [
                                                                             globalStats.recordCount > 0 ? (globalStats.totalCarbon / globalStats.recordCount / 1000).toFixed(2) : "0",
                                                                             " kg"
@@ -2149,7 +2150,7 @@ function SampleIntegration() {
                                                                             className: "text-center",
                                                                             children: [
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                                                    className: "font-bold",
+                                                                                    className: "font-bold text-gray-900",
                                                                                     children: comparison.vehicle1.name
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/sample.tsx",
@@ -2157,7 +2158,7 @@ function SampleIntegration() {
                                                                                     columnNumber: 27
                                                                                 }, this),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                                                    className: "text-red-600",
+                                                                                    className: "text-red-800 font-semibold",
                                                                                     children: [
                                                                                         comparison.vehicle1.carbonKg,
                                                                                         " kg"
@@ -2174,7 +2175,7 @@ function SampleIntegration() {
                                                                             columnNumber: 25
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                            className: "text-xl",
+                                                                            className: "text-xl text-gray-900",
                                                                             children: "➔"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/components/sample.tsx",
@@ -2185,7 +2186,7 @@ function SampleIntegration() {
                                                                             className: "text-center",
                                                                             children: [
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                                                    className: "font-bold",
+                                                                                    className: "font-bold text-gray-900",
                                                                                     children: comparison.vehicle2.name
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/sample.tsx",
@@ -2193,7 +2194,7 @@ function SampleIntegration() {
                                                                                     columnNumber: 27
                                                                                 }, this),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                                                    className: "text-green-600",
+                                                                                    className: "text-green-800 font-semibold",
                                                                                     children: [
                                                                                         comparison.vehicle2.carbonKg,
                                                                                         " kg"
@@ -2231,7 +2232,7 @@ function SampleIntegration() {
                                                                             columnNumber: 25
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                                            className: "text-sm text-gray-600",
+                                                                            className: "text-sm text-gray-700",
                                                                             children: [
                                                                                 "That's like ",
                                                                                 Math.ceil(Number(comparison.savingKg) * 24),

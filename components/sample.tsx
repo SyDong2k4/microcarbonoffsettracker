@@ -240,7 +240,6 @@ export default function SampleIntegration() {
 
                 {/* Yearly Impact Calculator */}
                 <div className="bg-white rounded-2xl shadow-lg p-6">
-                  {/* FIXED: Gradient text for "Yearly Impact Calculator" */}
                   <h2 className="text-2xl font-bold bg-gradient-to-r from-green-600 to-blue-600 bg-clip-text text-transparent mb-6">
                     📅 Yearly Impact Calculator
                   </h2>
@@ -255,7 +254,7 @@ export default function SampleIntegration() {
                           type="number"
                           value={dailyDistance}
                           onChange={(e) => setDailyDistance(Number(e.target.value))}
-                          className="w-full p-2 border border-gray-300 rounded-lg"
+                          className="w-full p-2 border border-gray-300 rounded-lg text-gray-900"
                         />
                       </div>
                       <div>
@@ -268,33 +267,33 @@ export default function SampleIntegration() {
                           max="7"
                           value={daysPerWeek}
                           onChange={(e) => setDaysPerWeek(Number(e.target.value))}
-                          className="w-full p-2 border border-gray-300 rounded-lg"
+                          className="w-full p-2 border border-gray-300 rounded-lg text-gray-900"
                         />
                       </div>
                       <div>
                         <label className="block text-sm font-medium text-gray-700 mb-2">
                           Weeks/Year
                         </label>
-                          <input
+                        <input
                           type="number"
                           min="1"
                           max="52"
                           value={weeksPerYear}
                           onChange={(e) => setWeeksPerYear(Number(e.target.value))}
-                          className="w-full p-2 border border-gray-300 rounded-lg"
+                          className="w-full p-2 border border-gray-300 rounded-lg text-gray-900"
                         />
                       </div>
                     </div>
 
                     <div className="bg-gradient-to-r from-green-50 to-blue-50 p-4 rounded-lg">
-                      <div className="space-y-2">
+                      <div className="space-y-2 text-gray-900">
                         <div className="flex justify-between">
                           <span>Yearly Carbon:</span>
                           <span className="font-bold">{yearlyImpact.yearlyCarbonKg} kg</span>
                         </div>
                         <div className="flex justify-between">
                           <span>Monthly Carbon:</span>
-                          <span>{yearlyImpact.monthlyCarbon} kg</span>
+                          <span className="font-bold">{yearlyImpact.monthlyCarbon} kg</span>
                         </div>
                         <div className="flex justify-between">
                           <span>Trees Needed to Offset:</span>
@@ -305,6 +304,7 @@ export default function SampleIntegration() {
                   </div>
                 </div>
 
+
                 {/* Global Stats */}
                 <div className="bg-white rounded-2xl shadow-lg p-6">
                   <h2 className="text-2xl font-bold text-gray-900 mb-6">🌍 Global Statistics</h2>
@@ -313,19 +313,19 @@ export default function SampleIntegration() {
                     <div className="grid grid-cols-2 gap-4">
                       <div className="bg-gray-50 p-4 rounded-lg">
                         <p className="text-sm text-gray-600">Total Distance</p>
-                        <p className="text-xl font-bold">{globalStats.totalDistance} km</p>
+                        <p className="text-xl font-bold text-gray-900">{globalStats.totalDistance} km</p>
                       </div>
                       <div className="bg-gray-50 p-4 rounded-lg">
                         <p className="text-sm text-gray-600">Total Carbon</p>
-                        <p className="text-xl font-bold">{globalStats.totalCarbonKg.toFixed(2)} kg</p>
+                        <p className="text-xl font-bold text-gray-900">{globalStats.totalCarbonKg.toFixed(2)} kg</p>
                       </div>
                       <div className="bg-gray-50 p-4 rounded-lg">
                         <p className="text-sm text-gray-600">Records</p>
-                        <p className="text-xl font-bold">{globalStats.recordCount}</p>
+                        <p className="text-xl font-bold text-gray-900">{globalStats.recordCount}</p>
                       </div>
                       <div className="bg-gray-50 p-4 rounded-lg">
                         <p className="text-sm text-gray-600">Avg per Trip</p>
-                        <p className="text-xl font-bold">
+                        <p className="text-xl font-bold text-gray-900">
                           {globalStats.recordCount > 0 
                             ? (globalStats.totalCarbon / globalStats.recordCount / 1000).toFixed(2) 
                             : "0"} kg
@@ -434,20 +434,20 @@ export default function SampleIntegration() {
                     <div className="bg-gradient-to-r from-blue-50 to-green-50 rounded-xl p-4">
                       <div className="flex justify-between items-center mb-3">
                         <div className="text-center">
-                          <p className="font-bold">{comparison.vehicle1.name}</p>
-                          <p className="text-red-600">{comparison.vehicle1.carbonKg} kg</p>
+                          <p className="font-bold text-gray-900">{comparison.vehicle1.name}</p>
+                          <p className="text-red-800 font-semibold">{comparison.vehicle1.carbonKg} kg</p>
                         </div>
-                        <div className="text-xl">➔</div>
+                        <div className="text-xl text-gray-900">➔</div>
                         <div className="text-center">
-                          <p className="font-bold">{comparison.vehicle2.name}</p>
-                          <p className="text-green-600">{comparison.vehicle2.carbonKg} kg</p>
+                          <p className="font-bold text-gray-900">{comparison.vehicle2.name}</p>
+                          <p className="text-green-800 font-semibold">{comparison.vehicle2.carbonKg} kg</p>
                         </div>
                       </div>
                       <div className="text-center">
                         <p className="text-lg font-bold text-green-700">
                           Save {comparison.savingKg} kg CO₂
                         </p>
-                        <p className="text-sm text-gray-600">
+                        <p className="text-sm text-gray-700">
                           That's like {Math.ceil(Number(comparison.savingKg) * 24)} smartphone charges!
                         </p>
                       </div>
