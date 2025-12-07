@@ -1407,11 +1407,11 @@ function SampleIntegration() {
                                             className: "bg-white rounded-2xl shadow-lg p-6",
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                                                    className: "text-2xl font-bold text-gray-900 mb-6",
+                                                    className: "text-2xl font-bold bg-gradient-to-r from-blue-600 to-green-600 bg-clip-text text-transparent mb-6",
                                                     children: "🚗 Record New Trip"
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/sample.tsx",
-                                                    lineNumber: 185,
+                                                    lineNumber: 186,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1424,7 +1424,7 @@ function SampleIntegration() {
                                                                     children: "Vehicle Type"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/components/sample.tsx",
-                                                                    lineNumber: 189,
+                                                                    lineNumber: 192,
                                                                     columnNumber: 23
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("select", {
@@ -1436,18 +1436,18 @@ function SampleIntegration() {
                                                                             children: name
                                                                         }, index, false, {
                                                                             fileName: "[project]/components/sample.tsx",
-                                                                            lineNumber: 198,
+                                                                            lineNumber: 201,
                                                                             columnNumber: 27
                                                                         }, this))
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/components/sample.tsx",
-                                                                    lineNumber: 192,
+                                                                    lineNumber: 195,
                                                                     columnNumber: 23
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/components/sample.tsx",
-                                                            lineNumber: 188,
+                                                            lineNumber: 191,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1457,7 +1457,7 @@ function SampleIntegration() {
                                                                     children: "Distance (km)"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/components/sample.tsx",
-                                                                    lineNumber: 206,
+                                                                    lineNumber: 209,
                                                                     columnNumber: 23
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -1469,13 +1469,13 @@ function SampleIntegration() {
                                                                     className: "w-full p-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/components/sample.tsx",
-                                                                    lineNumber: 209,
+                                                                    lineNumber: 212,
                                                                     columnNumber: 23
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/components/sample.tsx",
-                                                            lineNumber: 205,
+                                                            lineNumber: 208,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1488,7 +1488,7 @@ function SampleIntegration() {
                                                                         children: "Estimated Carbon:"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/components/sample.tsx",
-                                                                        lineNumber: 221,
+                                                                        lineNumber: 224,
                                                                         columnNumber: 25
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1496,18 +1496,18 @@ function SampleIntegration() {
                                                                         children: formatCarbon(carbonCalculation)
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/components/sample.tsx",
-                                                                        lineNumber: 222,
+                                                                        lineNumber: 225,
                                                                         columnNumber: 25
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/components/sample.tsx",
-                                                                lineNumber: 220,
+                                                                lineNumber: 223,
                                                                 columnNumber: 23
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/sample.tsx",
-                                                            lineNumber: 219,
+                                                            lineNumber: 222,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -1517,13 +1517,13 @@ function SampleIntegration() {
                                                             children: isLoading ? "Recording..." : "Record Trip on Blockchain"
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/sample.tsx",
-                                                            lineNumber: 228,
+                                                            lineNumber: 231,
                                                             columnNumber: 21
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/components/sample.tsx",
-                                                    lineNumber: 187,
+                                                    lineNumber: 190,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
@@ -1536,11 +1536,11 @@ function SampleIntegration() {
                                             className: "bg-white rounded-2xl shadow-lg p-6",
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                                                    className: "text-2xl font-bold text-gray-900 mb-6",
+                                                    className: "text-2xl font-bold bg-gradient-to-r from-green-600 to-blue-600 bg-clip-text text-transparent mb-6",
                                                     children: "📅 Yearly Impact Calculator"
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/sample.tsx",
-                                                    lineNumber: 240,
+                                                    lineNumber: 244,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1556,7 +1556,7 @@ function SampleIntegration() {
                                                                             children: "Daily Distance (km)"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/components/sample.tsx",
-                                                                            lineNumber: 245,
+                                                                            lineNumber: 251,
                                                                             columnNumber: 25
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -1566,13 +1566,13 @@ function SampleIntegration() {
                                                                             className: "w-full p-2 border border-gray-300 rounded-lg"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/components/sample.tsx",
-                                                                            lineNumber: 248,
+                                                                            lineNumber: 254,
                                                                             columnNumber: 25
                                                                         }, this)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/components/sample.tsx",
-                                                                    lineNumber: 244,
+                                                                    lineNumber: 250,
                                                                     columnNumber: 23
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1582,7 +1582,7 @@ function SampleIntegration() {
                                                                             children: "Days/Week"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/components/sample.tsx",
-                                                                            lineNumber: 256,
+                                                                            lineNumber: 262,
                                                                             columnNumber: 25
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -1594,13 +1594,13 @@ function SampleIntegration() {
                                                                             className: "w-full p-2 border border-gray-300 rounded-lg"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/components/sample.tsx",
-                                                                            lineNumber: 259,
+                                                                            lineNumber: 265,
                                                                             columnNumber: 25
                                                                         }, this)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/components/sample.tsx",
-                                                                    lineNumber: 255,
+                                                                    lineNumber: 261,
                                                                     columnNumber: 23
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1610,7 +1610,7 @@ function SampleIntegration() {
                                                                             children: "Weeks/Year"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/components/sample.tsx",
-                                                                            lineNumber: 269,
+                                                                            lineNumber: 275,
                                                                             columnNumber: 25
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -1622,19 +1622,19 @@ function SampleIntegration() {
                                                                             className: "w-full p-2 border border-gray-300 rounded-lg"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/components/sample.tsx",
-                                                                            lineNumber: 272,
+                                                                            lineNumber: 278,
                                                                             columnNumber: 27
                                                                         }, this)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/components/sample.tsx",
-                                                                    lineNumber: 268,
+                                                                    lineNumber: 274,
                                                                     columnNumber: 23
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/components/sample.tsx",
-                                                            lineNumber: 243,
+                                                            lineNumber: 249,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1649,7 +1649,7 @@ function SampleIntegration() {
                                                                                 children: "Yearly Carbon:"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/components/sample.tsx",
-                                                                                lineNumber: 286,
+                                                                                lineNumber: 292,
                                                                                 columnNumber: 27
                                                                             }, this),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1660,13 +1660,13 @@ function SampleIntegration() {
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/components/sample.tsx",
-                                                                                lineNumber: 287,
+                                                                                lineNumber: 293,
                                                                                 columnNumber: 27
                                                                             }, this)
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/components/sample.tsx",
-                                                                        lineNumber: 285,
+                                                                        lineNumber: 291,
                                                                         columnNumber: 25
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1676,7 +1676,7 @@ function SampleIntegration() {
                                                                                 children: "Monthly Carbon:"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/components/sample.tsx",
-                                                                                lineNumber: 290,
+                                                                                lineNumber: 296,
                                                                                 columnNumber: 27
                                                                             }, this),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1686,13 +1686,13 @@ function SampleIntegration() {
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/components/sample.tsx",
-                                                                                lineNumber: 291,
+                                                                                lineNumber: 297,
                                                                                 columnNumber: 27
                                                                             }, this)
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/components/sample.tsx",
-                                                                        lineNumber: 289,
+                                                                        lineNumber: 295,
                                                                         columnNumber: 25
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1702,7 +1702,7 @@ function SampleIntegration() {
                                                                                 children: "Trees Needed to Offset:"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/components/sample.tsx",
-                                                                                lineNumber: 294,
+                                                                                lineNumber: 300,
                                                                                 columnNumber: 27
                                                                             }, this),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1713,36 +1713,36 @@ function SampleIntegration() {
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/components/sample.tsx",
-                                                                                lineNumber: 295,
+                                                                                lineNumber: 301,
                                                                                 columnNumber: 27
                                                                             }, this)
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/components/sample.tsx",
-                                                                        lineNumber: 293,
+                                                                        lineNumber: 299,
                                                                         columnNumber: 25
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/components/sample.tsx",
-                                                                lineNumber: 284,
+                                                                lineNumber: 290,
                                                                 columnNumber: 23
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/sample.tsx",
-                                                            lineNumber: 283,
+                                                            lineNumber: 289,
                                                             columnNumber: 21
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/components/sample.tsx",
-                                                    lineNumber: 242,
+                                                    lineNumber: 248,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/components/sample.tsx",
-                                            lineNumber: 239,
+                                            lineNumber: 242,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1753,7 +1753,7 @@ function SampleIntegration() {
                                                     children: "🌍 Global Statistics"
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/sample.tsx",
-                                                    lineNumber: 304,
+                                                    lineNumber: 310,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1769,7 +1769,7 @@ function SampleIntegration() {
                                                                         children: "Total Distance"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/components/sample.tsx",
-                                                                        lineNumber: 309,
+                                                                        lineNumber: 315,
                                                                         columnNumber: 25
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1780,13 +1780,13 @@ function SampleIntegration() {
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/components/sample.tsx",
-                                                                        lineNumber: 310,
+                                                                        lineNumber: 316,
                                                                         columnNumber: 25
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/components/sample.tsx",
-                                                                lineNumber: 308,
+                                                                lineNumber: 314,
                                                                 columnNumber: 23
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1797,7 +1797,7 @@ function SampleIntegration() {
                                                                         children: "Total Carbon"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/components/sample.tsx",
-                                                                        lineNumber: 313,
+                                                                        lineNumber: 319,
                                                                         columnNumber: 25
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1808,13 +1808,13 @@ function SampleIntegration() {
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/components/sample.tsx",
-                                                                        lineNumber: 314,
+                                                                        lineNumber: 320,
                                                                         columnNumber: 25
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/components/sample.tsx",
-                                                                lineNumber: 312,
+                                                                lineNumber: 318,
                                                                 columnNumber: 23
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1825,7 +1825,7 @@ function SampleIntegration() {
                                                                         children: "Records"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/components/sample.tsx",
-                                                                        lineNumber: 317,
+                                                                        lineNumber: 323,
                                                                         columnNumber: 25
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1833,13 +1833,13 @@ function SampleIntegration() {
                                                                         children: globalStats.recordCount
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/components/sample.tsx",
-                                                                        lineNumber: 318,
+                                                                        lineNumber: 324,
                                                                         columnNumber: 25
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/components/sample.tsx",
-                                                                lineNumber: 316,
+                                                                lineNumber: 322,
                                                                 columnNumber: 23
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1850,7 +1850,7 @@ function SampleIntegration() {
                                                                         children: "Avg per Trip"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/components/sample.tsx",
-                                                                        lineNumber: 321,
+                                                                        lineNumber: 327,
                                                                         columnNumber: 25
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1861,30 +1861,30 @@ function SampleIntegration() {
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/components/sample.tsx",
-                                                                        lineNumber: 322,
+                                                                        lineNumber: 328,
                                                                         columnNumber: 25
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/components/sample.tsx",
-                                                                lineNumber: 320,
+                                                                lineNumber: 326,
                                                                 columnNumber: 23
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/components/sample.tsx",
-                                                        lineNumber: 307,
+                                                        lineNumber: 313,
                                                         columnNumber: 21
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/sample.tsx",
-                                                    lineNumber: 306,
+                                                    lineNumber: 312,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/components/sample.tsx",
-                                            lineNumber: 303,
+                                            lineNumber: 309,
                                             columnNumber: 17
                                         }, this)
                                     ]
@@ -1904,7 +1904,7 @@ function SampleIntegration() {
                                                     children: "📝 Your Trips"
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/sample.tsx",
-                                                    lineNumber: 337,
+                                                    lineNumber: 343,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1914,7 +1914,7 @@ function SampleIntegration() {
                                                         children: "No trips recorded yet"
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/sample.tsx",
-                                                        lineNumber: 341,
+                                                        lineNumber: 347,
                                                         columnNumber: 23
                                                     }, this) : userRecords.map((record)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                             className: "border border-gray-200 rounded-xl p-4 hover:bg-gray-50 transition-colors",
@@ -1932,7 +1932,7 @@ function SampleIntegration() {
                                                                                             children: record.vehicleName.split(' ')[0]
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/components/sample.tsx",
-                                                                                            lineNumber: 348,
+                                                                                            lineNumber: 354,
                                                                                             columnNumber: 33
                                                                                         }, this),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -1940,13 +1940,13 @@ function SampleIntegration() {
                                                                                             children: record.vehicleName
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/components/sample.tsx",
-                                                                                            lineNumber: 349,
+                                                                                            lineNumber: 355,
                                                                                             columnNumber: 33
                                                                                         }, this)
                                                                                     ]
                                                                                 }, void 0, true, {
                                                                                     fileName: "[project]/components/sample.tsx",
-                                                                                    lineNumber: 347,
+                                                                                    lineNumber: 353,
                                                                                     columnNumber: 31
                                                                                 }, this),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1958,13 +1958,13 @@ function SampleIntegration() {
                                                                                     ]
                                                                                 }, void 0, true, {
                                                                                     fileName: "[project]/components/sample.tsx",
-                                                                                    lineNumber: 351,
+                                                                                    lineNumber: 357,
                                                                                     columnNumber: 31
                                                                                 }, this)
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/components/sample.tsx",
-                                                                            lineNumber: 346,
+                                                                            lineNumber: 352,
                                                                             columnNumber: 29
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1978,7 +1978,7 @@ function SampleIntegration() {
                                                                                     ]
                                                                                 }, void 0, true, {
                                                                                     fileName: "[project]/components/sample.tsx",
-                                                                                    lineNumber: 356,
+                                                                                    lineNumber: 362,
                                                                                     columnNumber: 31
                                                                                 }, this),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1990,19 +1990,19 @@ function SampleIntegration() {
                                                                                     ]
                                                                                 }, void 0, true, {
                                                                                     fileName: "[project]/components/sample.tsx",
-                                                                                    lineNumber: 357,
+                                                                                    lineNumber: 363,
                                                                                     columnNumber: 31
                                                                                 }, this)
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/components/sample.tsx",
-                                                                            lineNumber: 355,
+                                                                            lineNumber: 361,
                                                                             columnNumber: 29
                                                                         }, this)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/components/sample.tsx",
-                                                                    lineNumber: 345,
+                                                                    lineNumber: 351,
                                                                     columnNumber: 27
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2016,7 +2016,7 @@ function SampleIntegration() {
                                                                                     children: "Net:"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/sample.tsx",
-                                                                                    lineNumber: 363,
+                                                                                    lineNumber: 369,
                                                                                     columnNumber: 31
                                                                                 }, this),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -2027,13 +2027,13 @@ function SampleIntegration() {
                                                                                     ]
                                                                                 }, void 0, true, {
                                                                                     fileName: "[project]/components/sample.tsx",
-                                                                                    lineNumber: 364,
+                                                                                    lineNumber: 370,
                                                                                     columnNumber: 31
                                                                                 }, this)
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/components/sample.tsx",
-                                                                            lineNumber: 362,
+                                                                            lineNumber: 368,
                                                                             columnNumber: 29
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2049,7 +2049,7 @@ function SampleIntegration() {
                                                                                     placeholder: "kg"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/sample.tsx",
-                                                                                    lineNumber: 370,
+                                                                                    lineNumber: 376,
                                                                                     columnNumber: 31
                                                                                 }, this),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -2059,36 +2059,36 @@ function SampleIntegration() {
                                                                                     children: "Offset"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/sample.tsx",
-                                                                                    lineNumber: 379,
+                                                                                    lineNumber: 385,
                                                                                     columnNumber: 31
                                                                                 }, this)
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/components/sample.tsx",
-                                                                            lineNumber: 369,
+                                                                            lineNumber: 375,
                                                                             columnNumber: 29
                                                                         }, this)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/components/sample.tsx",
-                                                                    lineNumber: 361,
+                                                                    lineNumber: 367,
                                                                     columnNumber: 27
                                                                 }, this)
                                                             ]
                                                         }, record.id, true, {
                                                             fileName: "[project]/components/sample.tsx",
-                                                            lineNumber: 344,
+                                                            lineNumber: 350,
                                                             columnNumber: 25
                                                         }, this))
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/sample.tsx",
-                                                    lineNumber: 339,
+                                                    lineNumber: 345,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/components/sample.tsx",
-                                            lineNumber: 336,
+                                            lineNumber: 342,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2099,7 +2099,7 @@ function SampleIntegration() {
                                                     children: "🌱 Eco-Friendly Alternatives"
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/sample.tsx",
-                                                    lineNumber: 396,
+                                                    lineNumber: 402,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2116,7 +2116,7 @@ function SampleIntegration() {
                                                                                 children: alt.name
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/components/sample.tsx",
-                                                                                lineNumber: 404,
+                                                                                lineNumber: 410,
                                                                                 columnNumber: 31
                                                                             }, this),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2127,13 +2127,13 @@ function SampleIntegration() {
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/components/sample.tsx",
-                                                                                lineNumber: 405,
+                                                                                lineNumber: 411,
                                                                                 columnNumber: 31
                                                                             }, this)
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/components/sample.tsx",
-                                                                        lineNumber: 403,
+                                                                        lineNumber: 409,
                                                                         columnNumber: 29
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2147,7 +2147,7 @@ function SampleIntegration() {
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/components/sample.tsx",
-                                                                                lineNumber: 410,
+                                                                                lineNumber: 416,
                                                                                 columnNumber: 31
                                                                             }, this),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2158,36 +2158,36 @@ function SampleIntegration() {
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/components/sample.tsx",
-                                                                                lineNumber: 413,
+                                                                                lineNumber: 419,
                                                                                 columnNumber: 31
                                                                             }, this)
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/components/sample.tsx",
-                                                                        lineNumber: 409,
+                                                                        lineNumber: 415,
                                                                         columnNumber: 29
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/components/sample.tsx",
-                                                                lineNumber: 402,
+                                                                lineNumber: 408,
                                                                 columnNumber: 27
                                                             }, this)
                                                         }, index, false, {
                                                             fileName: "[project]/components/sample.tsx",
-                                                            lineNumber: 401,
+                                                            lineNumber: 407,
                                                             columnNumber: 25
                                                         }, this)) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                         className: "text-gray-500 text-center py-4",
                                                         children: "You're already using the greenest option! 🎉"
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/sample.tsx",
-                                                        lineNumber: 421,
+                                                        lineNumber: 427,
                                                         columnNumber: 23
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/sample.tsx",
-                                                    lineNumber: 398,
+                                                    lineNumber: 404,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2198,7 +2198,7 @@ function SampleIntegration() {
                                                             children: "🚗 vs 🚲 Comparison"
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/sample.tsx",
-                                                            lineNumber: 427,
+                                                            lineNumber: 433,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2215,7 +2215,7 @@ function SampleIntegration() {
                                                                                     children: comparison.vehicle1.name
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/sample.tsx",
-                                                                                    lineNumber: 431,
+                                                                                    lineNumber: 437,
                                                                                     columnNumber: 27
                                                                                 }, this),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2226,13 +2226,13 @@ function SampleIntegration() {
                                                                                     ]
                                                                                 }, void 0, true, {
                                                                                     fileName: "[project]/components/sample.tsx",
-                                                                                    lineNumber: 432,
+                                                                                    lineNumber: 438,
                                                                                     columnNumber: 27
                                                                                 }, this)
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/components/sample.tsx",
-                                                                            lineNumber: 430,
+                                                                            lineNumber: 436,
                                                                             columnNumber: 25
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2240,7 +2240,7 @@ function SampleIntegration() {
                                                                             children: "➔"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/components/sample.tsx",
-                                                                            lineNumber: 434,
+                                                                            lineNumber: 440,
                                                                             columnNumber: 25
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2251,7 +2251,7 @@ function SampleIntegration() {
                                                                                     children: comparison.vehicle2.name
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/sample.tsx",
-                                                                                    lineNumber: 436,
+                                                                                    lineNumber: 442,
                                                                                     columnNumber: 27
                                                                                 }, this),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2262,19 +2262,19 @@ function SampleIntegration() {
                                                                                     ]
                                                                                 }, void 0, true, {
                                                                                     fileName: "[project]/components/sample.tsx",
-                                                                                    lineNumber: 437,
+                                                                                    lineNumber: 443,
                                                                                     columnNumber: 27
                                                                                 }, this)
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/components/sample.tsx",
-                                                                            lineNumber: 435,
+                                                                            lineNumber: 441,
                                                                             columnNumber: 25
                                                                         }, this)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/components/sample.tsx",
-                                                                    lineNumber: 429,
+                                                                    lineNumber: 435,
                                                                     columnNumber: 23
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2289,7 +2289,7 @@ function SampleIntegration() {
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/components/sample.tsx",
-                                                                            lineNumber: 441,
+                                                                            lineNumber: 447,
                                                                             columnNumber: 25
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2301,31 +2301,31 @@ function SampleIntegration() {
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/components/sample.tsx",
-                                                                            lineNumber: 444,
+                                                                            lineNumber: 450,
                                                                             columnNumber: 25
                                                                         }, this)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/components/sample.tsx",
-                                                                    lineNumber: 440,
+                                                                    lineNumber: 446,
                                                                     columnNumber: 23
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/components/sample.tsx",
-                                                            lineNumber: 428,
+                                                            lineNumber: 434,
                                                             columnNumber: 21
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/components/sample.tsx",
-                                                    lineNumber: 426,
+                                                    lineNumber: 432,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/components/sample.tsx",
-                                            lineNumber: 395,
+                                            lineNumber: 401,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2336,7 +2336,7 @@ function SampleIntegration() {
                                                     children: "⚖️ Carbon Equivalents"
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/sample.tsx",
-                                                    lineNumber: 454,
+                                                    lineNumber: 460,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2350,7 +2350,7 @@ function SampleIntegration() {
                                                                     children: "🌳"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/components/sample.tsx",
-                                                                    lineNumber: 458,
+                                                                    lineNumber: 464,
                                                                     columnNumber: 23
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2358,7 +2358,7 @@ function SampleIntegration() {
                                                                     children: equivalents.trees
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/components/sample.tsx",
-                                                                    lineNumber: 459,
+                                                                    lineNumber: 465,
                                                                     columnNumber: 23
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2366,13 +2366,13 @@ function SampleIntegration() {
                                                                     children: "Trees needed"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/components/sample.tsx",
-                                                                    lineNumber: 460,
+                                                                    lineNumber: 466,
                                                                     columnNumber: 23
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/components/sample.tsx",
-                                                            lineNumber: 457,
+                                                            lineNumber: 463,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2383,7 +2383,7 @@ function SampleIntegration() {
                                                                     children: "📱"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/components/sample.tsx",
-                                                                    lineNumber: 463,
+                                                                    lineNumber: 469,
                                                                     columnNumber: 23
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2391,7 +2391,7 @@ function SampleIntegration() {
                                                                     children: equivalents.smartphones
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/components/sample.tsx",
-                                                                    lineNumber: 464,
+                                                                    lineNumber: 470,
                                                                     columnNumber: 23
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2399,13 +2399,13 @@ function SampleIntegration() {
                                                                     children: "Smartphone charges"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/components/sample.tsx",
-                                                                    lineNumber: 465,
+                                                                    lineNumber: 471,
                                                                     columnNumber: 23
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/components/sample.tsx",
-                                                            lineNumber: 462,
+                                                            lineNumber: 468,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2416,7 +2416,7 @@ function SampleIntegration() {
                                                                     children: "📺"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/components/sample.tsx",
-                                                                    lineNumber: 468,
+                                                                    lineNumber: 474,
                                                                     columnNumber: 23
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2424,7 +2424,7 @@ function SampleIntegration() {
                                                                     children: equivalents.tvHours
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/components/sample.tsx",
-                                                                    lineNumber: 469,
+                                                                    lineNumber: 475,
                                                                     columnNumber: 23
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2432,13 +2432,13 @@ function SampleIntegration() {
                                                                     children: "TV hours"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/components/sample.tsx",
-                                                                    lineNumber: 470,
+                                                                    lineNumber: 476,
                                                                     columnNumber: 23
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/components/sample.tsx",
-                                                            lineNumber: 467,
+                                                            lineNumber: 473,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2449,7 +2449,7 @@ function SampleIntegration() {
                                                                     children: "🚗"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/components/sample.tsx",
-                                                                    lineNumber: 473,
+                                                                    lineNumber: 479,
                                                                     columnNumber: 23
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2457,7 +2457,7 @@ function SampleIntegration() {
                                                                     children: equivalents.carKm
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/components/sample.tsx",
-                                                                    lineNumber: 474,
+                                                                    lineNumber: 480,
                                                                     columnNumber: 23
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2465,31 +2465,31 @@ function SampleIntegration() {
                                                                     children: "Car km equivalent"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/components/sample.tsx",
-                                                                    lineNumber: 475,
+                                                                    lineNumber: 481,
                                                                     columnNumber: 23
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/components/sample.tsx",
-                                                            lineNumber: 472,
+                                                            lineNumber: 478,
                                                             columnNumber: 21
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/components/sample.tsx",
-                                                    lineNumber: 456,
+                                                    lineNumber: 462,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/components/sample.tsx",
-                                            lineNumber: 453,
+                                            lineNumber: 459,
                                             columnNumber: 17
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/sample.tsx",
-                                    lineNumber: 334,
+                                    lineNumber: 340,
                                     columnNumber: 15
                                 }, this)
                             ]
@@ -2507,7 +2507,7 @@ function SampleIntegration() {
                             children: "Built with ❤️ on IOTA • All data is stored on the blockchain"
                         }, void 0, false, {
                             fileName: "[project]/components/sample.tsx",
-                            lineNumber: 486,
+                            lineNumber: 492,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2518,13 +2518,13 @@ function SampleIntegration() {
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/sample.tsx",
-                            lineNumber: 487,
+                            lineNumber: 493,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/sample.tsx",
-                    lineNumber: 485,
+                    lineNumber: 491,
                     columnNumber: 9
                 }, this)
             ]

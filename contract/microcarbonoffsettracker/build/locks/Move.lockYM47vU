@@ -29,13 +29,13 @@ flavor = "iota"
 
 [env.testnet]
 chain-id = "2304aa97"
-original-published-id = "0x140e767b2d4c62840db4082879aec4d48c7d92f06a94c3fe0123bee0028b4bbd"
+original-published-id = "0x0000000000000000000000000000000000000000000000000000000000000000"
 latest-published-id = "0x140e767b2d4c62840db4082879aec4d48c7d92f06a94c3fe0123bee0028b4bbd"
 published-version = "1"
 
 [env.devnet]
 chain-id = "e678123a"
-original-published-id = "0x0000000000000000000000000000000000000000000000000000000000000000"
+original-published-id = "0x5fb580a4361248a85d9048ec0702b563a12af290958857c3e39eaabac4bbb5e2"
 latest-published-id = "0x5fb580a4361248a85d9048ec0702b563a12af290958857c3e39eaabac4bbb5e2"
 published-version = "1"
 

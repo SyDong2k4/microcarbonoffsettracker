@@ -86659,3 +86659,7 @@ Import map: aliased to relative './components/' inside of [project]/
 
 https://nextjs.org/docs/messages/module-not-found
 [01:34:52.243] Server  LOG      ✓ Compiled in 250ms
+[01:50:02.746] Server  LOG      ✓ Compiled in 100ms
+[02:14:17.557] Browser LOG     Contract initialized (simulated)
+[02:18:27.591] Server  LOG      ✓ Compiled in 291ms
+[02:18:48.085] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold

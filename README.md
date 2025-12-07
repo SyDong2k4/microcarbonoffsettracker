@@ -95,7 +95,7 @@ For detailed instructions, see **[INSTRUCTION_GUIDE.md](./INSTRUCTION_GUIDE.md)*
 - [Next.js Documentation](https://nextjs.org/docs)
 
 ## 📞 Contact
-Developer: Nguyễn Sỹ Đồng
-Email: 22010021@st.phenikaa-uni.edu.vn
-Discord: dong2004.nguyensy
-Phone: +84 34 378 9045
+- Developer: Nguyễn Sỹ Đồng
+- Email: 22010021@st.phenikaa-uni.edu.vn
+- Discord: dong2004.nguyensy
+- Phone: +84 34 378 9045

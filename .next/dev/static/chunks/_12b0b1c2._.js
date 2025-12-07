@@ -25,7 +25,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$iota$2f$da
 ;
 ;
 const DEVNET_PACKAGE_ID = "0x5fb580a4361248a85d9048ec0702b563a12af290958857c3e39eaabac4bbb5e2";
-const TESTNET_PACKAGE_ID = "";
+const TESTNET_PACKAGE_ID = "0x5fb580a4361248a85d9048ec0702b563a12af290958857c3e39eaabac4bbb5e2";
 const MAINNET_PACKAGE_ID = "";
 const { networkConfig, useNetworkVariable, useNetworkVariables } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$iota$2f$dapp$2d$kit$2f$dist$2f$esm$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["createNetworkConfig"])({
     devnet: {
