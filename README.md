@@ -31,68 +31,9 @@ Annual Projections: Estimate yearly environmental impact
 
 Eco-Alternatives: Get personalized greener transportation suggestions
 
-Carbon Equivalents: Understand emissions in relatable terms (trees, smartphone charges, etc.)
+Carbon Equivalents: Understand emissions in relatable terms (trees, smartphone charges, etAddress
 
-### 🛠️ Developer Friendly
-Full TypeScript Support: Type-safe development experience
-
-Modular Architecture: Clean separation of concerns
-
-Automated Deployment: One-click contract deployment
-
-Comprehensive Documentation: Easy to understand and extend
-
-### 🚀 Installation
-Prerequisites
-Node.js 18 or higher
-
-npm or yarn
-
-IOTA wallet (for testnet interaction)
-
-Git
-
-## 🚀 Quick Start
-
-```bash
-# Install dependencies
-npm install --legacy-peer-deps
-
-# Deploy your contract
-npm run iota-deploy
-
-# Start development server
-npm run dev
-```
-
-## 📚 Documentation
-
-For detailed instructions, see **[INSTRUCTION_GUIDE.md](./INSTRUCTION_GUIDE.md)**
-
-## 🎯 Features
-
-- ✅ Wallet connection with IOTA dApp Kit
-- ✅ Move smart contract integration
-- ✅ TypeScript support
-- ✅ Modern UI with Radix UI
-- ✅ Automated deployment and integration
-- ✅ Error handling and loading states
-
-## 📁 Project Structure
-
-```
-├── app/              # Next.js app directory
-├── components/       # React components
-├── hooks/            # Custom hooks
-├── lib/              # Configuration
-└── contract/         # Move contracts
-```
-
-## 📚 Learn More
-
-- [IOTA Documentation](https://wiki.iota.org/)
-- [IOTA dApp Kit](https://github.com/iotaledger/dapp-kit)
-- [Next.js Documentation](https://nextjs.org/docs)
+0x5fb580a4361248a85d9048ec0702b563a12af290958857c3e39eaabac4bbb5e2
 
 ## 📞 Contact
 - Developer: Nguyễn Sỹ Đồng
