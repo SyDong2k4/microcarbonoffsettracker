@@ -86674,3 +86674,11 @@ https://nextjs.org/docs/messages/module-not-found
 [02:44:00.240] Server  LOG      ✓ Compiled in 98ms
 [02:44:03.638] Server  LOG      ✓ Compiled in 106ms
 [02:44:05.373] Server  LOG      ✓ Compiled in 101ms
+[02:49:52.352] Server  LOG      ✓ Compiled in 102ms
+[02:50:00.999] Server  LOG      ✓ Compiled in 83ms
+[02:50:02.797] Server  LOG      ✓ Compiled in 83ms
+[02:50:09.786] Browser LOG     Recording trip to blockchain: {"carbonGrams":1700,"distanceKm":10,"vehicleType":0}
+[02:51:44.249] Server  LOG      ✓ Compiled in 172ms
+[02:51:51.750] Server  LOG      ✓ Compiled in 113ms
+[02:51:52.817] Server  LOG      ✓ Compiled in 80ms
+[02:51:54.235] Server  LOG      ✓ Compiled in 124ms

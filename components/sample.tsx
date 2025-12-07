@@ -195,7 +195,7 @@ export default function SampleIntegration() {
                       <select
                         value={vehicleType}
                         onChange={(e) => setVehicleType(Number(e.target.value))}
-                        className="w-full p-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+                        className="w-full p-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500 text-gray-900"
                       >
                         {VEHICLE_NAMES.map((name, index) => (
                           <option key={index} value={index}>
@@ -215,7 +215,7 @@ export default function SampleIntegration() {
                         step="0.1"
                         value={distance}
                         onChange={(e) => setDistance(Number(e.target.value))}
-                        className="w-full p-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+                        className="w-full p-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500 text-gray-900"
                       />
                     </div>
 
@@ -379,7 +379,7 @@ export default function SampleIntegration() {
                                 step="0.1"
                                 value={offsetAmount}
                                 onChange={(e) => setOffsetAmount(Number(e.target.value))}
-                                className="w-24 p-2 border border-gray-300 rounded-lg"
+                                className="w-24 p-2 border border-gray-300 rounded-lg text-gray-900 focus:ring-2 focus:ring-green-500 focus:border-green-500"
                                 placeholder="kg"
                               />
                               <button

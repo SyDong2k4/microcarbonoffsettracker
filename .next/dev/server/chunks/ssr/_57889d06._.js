@@ -1368,7 +1368,7 @@ function SampleIntegration() {
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("select", {
                                                                     value: vehicleType,
                                                                     onChange: (e)=>setVehicleType(Number(e.target.value)),
-                                                                    className: "w-full p-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500",
+                                                                    className: "w-full p-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500 text-gray-900",
                                                                     children: __TURBOPACK__imported__module__$5b$project$5d2f$hooks$2f$useContract$2e$ts__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["VEHICLE_NAMES"].map((name, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
                                                                             value: index,
                                                                             children: name
@@ -1404,7 +1404,7 @@ function SampleIntegration() {
                                                                     step: "0.1",
                                                                     value: distance,
                                                                     onChange: (e)=>setDistance(Number(e.target.value)),
-                                                                    className: "w-full p-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+                                                                    className: "w-full p-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500 text-gray-900"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/components/sample.tsx",
                                                                     lineNumber: 212,
@@ -1984,7 +1984,7 @@ function SampleIntegration() {
                                                                                     step: "0.1",
                                                                                     value: offsetAmount,
                                                                                     onChange: (e)=>setOffsetAmount(Number(e.target.value)),
-                                                                                    className: "w-24 p-2 border border-gray-300 rounded-lg",
+                                                                                    className: "w-24 p-2 border border-gray-300 rounded-lg text-gray-900 focus:ring-2 focus:ring-green-500 focus:border-green-500",
                                                                                     placeholder: "kg"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/components/sample.tsx",
